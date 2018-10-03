@@ -64,8 +64,8 @@ With the following software and hardware list you can run all code files present
 is a seasoned web application developer with a breadth of experience ranging from jQuery to React and everything in between. He is the author of over 10 books, including React Tooling and React Essentials.
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [React 16 Essentials - Second Edition](https://www.packtpub.com/web-development/react-16-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787126046)
+* [React and React Native](https://www.packtpub.com/web-development/react-and-react-native?utm_source=github&utm_medium=repository&utm_campaign=9781786465658)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
