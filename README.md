@@ -6,12 +6,12 @@ React and React Native, Second Edition, published by Packt
 
 This is the code repository for [React and React Native - Second Edition](https://www.packtpub.com/application-development/react-and-react-native-second-edition), published by Packt.
 
-**Subtitle from EPIC**
+**Complete guide to web and native mobile development with React**
 
 ## What is this book about?
 First Paragraph from the Long Description
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 *	Learn what has changed in React 16 and how you stand to benefit
 * Craft reusable components using the React virtual DOM 
 * Learn how to use the new create-react-native-app command line tool
@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 | 1 -26    | A code editor                       | OS Independent although Windows 10 |
 |          | A modern web browser                | or above recommended               |
 |          | Node.js                             |                                    |
-|          |                                     |                                    |
+
 
 
 ### Related products <Other books you may enjoy>
