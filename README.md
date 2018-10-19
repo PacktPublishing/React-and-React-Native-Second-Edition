@@ -2,7 +2,7 @@
 
 React and React Native, Second Edition, published by Packt
 
-# Book Name
+
 
 <a href="https://www.packtpub.com/application-development/react-and-react-native-second-edition"><img src="https://www.packtpub.com/sites/default/files/B11282_cover.png" alt="Book Name" height="256px" align="right"></a>
 
@@ -77,7 +77,7 @@ With the following software and hardware list you can run all code files present
 **Adam Boduch**
 is a seasoned web application developer with a breadth of experience ranging from jQuery to React and everything in between. He is the author of over 10 books, including React Tooling and React Essentials.
 
-## Other books by the authors
+## Other books by the author
 
 - [React 16 Essentials - Second Edition](https://www.packtpub.com/web-development/react-16-essentials-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787126046)
 - [React and React Native](https://www.packtpub.com/web-development/react-and-react-native?utm_source=github&utm_medium=repository&utm_campaign=9781786465658)
