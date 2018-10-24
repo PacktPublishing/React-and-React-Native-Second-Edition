@@ -4,12 +4,15 @@
   "private": true,
   "dependencies": {
     "ajv": "^6.5.0",
+    "bootstrap": "^3.3.7",
     "cuid": "^2.1.1",
     "immutable": "^3.8.2",
     "jquery": "^3.3.1",
     "jquery-ui": "^1.12.1",
     "react": "^16.4.0",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.4.0",
+    "react-router-bootstrap": "^0.24.4",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4"
   },
@@ -18,7 +21,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "postinstall": "node postinstall.js",
     "server": "babel-node src/server.js"
   },
   "devDependencies": {
