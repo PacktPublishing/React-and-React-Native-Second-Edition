@@ -4,7 +4,17 @@
   "private": true,
   "dependencies": {
     "babel-cli": "^6.26.0",
-    "express": "^4.16.3"
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "express": "^4.16.3",
+    "immutable": "^4.0.0-rc.12"
   },
-  "scripts": { "start": "babel-node index" }
+  "scripts": {
+    "start": "babel-node index"
+  },
+  "devDependencies": {},
+  "babel": {
+    "plugins": [
+      "transform-es2015-modules-commonjs"
+    ]
+  }
 }
